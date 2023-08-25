@@ -1,7 +1,7 @@
 Developed an interactive Sudoku Puzzle Game with a graphical user interface(GUI) using backtracking algorithm to solve and create random Sudoku boards in ReactJS.
 The final app is a fully functioning front end sudoku game with every feature of sudoku which customizes the difficulty based on the number of empty cells to start, incorrect placements are shown and highlights all cells of the value in focus and Note taking option with Undo moves and clear featuring a clean CSS for a user-friendly experience.
 
-### Deployed at : https://kalyaniharidas.github.io/my-sudoku/
+### Deployed at : https://rushikeshbangar443.github.io/my-sudoku/
 
 
 <!-- # Getting Started with Create React App
