@@ -1,0 +1,12 @@
+npm install moment --save --force
+
+git init
+git add -A
+git status
+git commit -am "commit"
+git branch -M main
+git remote add origin https://github.com/KalyaniHaridas/my-sudoku.git
+git push -u origin main
+npm install gh-pages --save-dev
+https://www.youtube.com/watch?v=Q9n2mLqXFpU
+
